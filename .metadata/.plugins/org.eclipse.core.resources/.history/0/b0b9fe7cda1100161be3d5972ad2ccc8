@@ -1,0 +1,10 @@
+#Docker host properties
+#Wed May 04 14:20:09 IST 2016
+bwdocker.certPath=C\:\\Users\\roagarwa\\.docker\\machine\\machines\\my-default
+docker.image=gcr.io/tibco-1294/sample-bwce-rest
+bwdocker.port.p1=17777\:7777
+bwdocker.port.p0=18080\:8080
+bwdocker.host=tcp\://192.168.99.100\:2376
+bwdocker.maintainer=abc@tibco.com
+bwdocker.containername=BWCEAPP
+bwdocker.from=tibco/bwce

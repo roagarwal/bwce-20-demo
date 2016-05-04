@@ -1,0 +1,1248 @@
+!SESSION 2016-05-04 12:19:15.948 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation
+
+!ENTRY com.tibco.bw.sharedresource.jdbc.driver.template 4 0 2016-05-04 12:19:20.654
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.tibco.bw.sharedresource.jdbc.driver.template. The component header value is OSGI-INF/*.xml
+
+!ENTRY com.tibco.bw.sharedresource.jdbc.driver.template 4 0 2016-05-04 12:19:20.654
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.tibco.bw.sharedresource.jdbc.driver.template. The component header value is OSGI-INF/*.xml
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.amf.sharedresource.model.transport.eclipse' and 'com.tibco.amf.sharedresource.model.transport.eclipse' register a package for 'http://xsd.tns.tibco.com/amf/models/sharedresource/httpconnector'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.bw.core.model.eclipse' and 'com.tibco.bw.core.model.eclipse' register a package for 'http://ns.tibco.com/bw/core/internalactivity'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.bw.sharedresource.http.model' and 'com.tibco.bw.sharedresource.http.model' register a package for 'http://xsd.tns.tibco.com/bw/models/sharedresource/httpclient'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.amf.sharedresource.model.data.eclipse' and 'com.tibco.bw.sharedresource.jdbc.model' register a package for 'http://xsd.tns.tibco.com/amf/models/sharedresource/jdbc'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.amf.sca.model.eclipse' and 'com.tibco.bw.sharedresource.ws.policy.model' register a package for 'http://schemas.xmlsoap.org/ws/2004/09/policy'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.amf.wsdl.extensions.eclipse' and 'com.tibco.bw.wsdl.extensions' register a package for 'http://xsd.tns.tibco.com/wsdl/models/extensions/soap/tibcojms'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.140
+!MESSAGE Both 'com.tibco.amf.wsdl.extensions.eclipse' and 'com.tibco.bw.wsdl.extensions' register a package for 'http://xsd.tns.tibco.com/wsdl/models/soap12'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.171
+!MESSAGE Both 'com.tibco.bw.sharedresource.identity.model' and 'com.tibco.bw.sharedresource.ws.policy.model' register an extension parser for 'policy'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.171
+!MESSAGE Both 'com.tibco.bw.sharedresource.trinity.securityprovider.model' and 'com.tibco.trinity.securityprovider.model.eclipse' register an extension parser for 'auth'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.171
+!MESSAGE Both 'com.tibco.bw.sharedresource.trinity.securityprovider.model' and 'com.tibco.trinity.securityprovider.model.eclipse' register an extension parser for 'identity'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 12:19:46.171
+!MESSAGE Both 'com.tibco.bw.sharedresource.trinity.securityprovider.model' and 'com.tibco.trinity.securityprovider.model.eclipse' register an extension parser for 'userid'
+
+!ENTRY org.eclipse.ui 2 0 2016-05-04 12:19:46.781
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 12:19:46.796
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.migration2x.ui', id='com.tibco.amf.tools.migration2x.ui.migrateTo3xCommand', categoryId='com.tibco.amf.tools.composite.resources.ui.TasksCategory'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 12:19:46.796
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.packager.ui', id='com.tibco.amf.tools.packager.ui.createDaa.command', categoryId='tibco.category.soa_platform'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 12:19:46.796
+!MESSAGE Commands should really have a category: plug-in='com.tibco.bw.binding.soap.axis2.design', id='com.tibco.bw.binding.soap.axis2.design.generateWSDL', categoryId='tibco.category.soa_platform'
+
+!ENTRY org.eclipse.ui 2 0 2016-05-04 12:19:48.093
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 12:19:48.093
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.migration2x.ui', id='com.tibco.amf.tools.migration2x.ui.migrateTo3xCommand', categoryId='com.tibco.amf.tools.composite.resources.ui.TasksCategory'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 12:19:48.093
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.packager.ui', id='com.tibco.amf.tools.packager.ui.createDaa.command', categoryId='tibco.category.soa_platform'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 12:19:48.093
+!MESSAGE Commands should really have a category: plug-in='com.tibco.bw.binding.soap.axis2.design', id='com.tibco.bw.binding.soap.axis2.design.generateWSDL', categoryId='tibco.category.soa_platform'
+
+!ENTRY com.tibco.bw.core.design.process.editor 1 0 2016-05-04 12:20:00.744
+!MESSAGE ".com.tibco.bw.rad/BWApplication.launch" file is synchronized.
+
+!ENTRY com.tibco.bw.core.design.process.editor 1 0 2016-05-04 12:20:00.791
+!MESSAGE ".com.tibco.bw.rad/runtime.target" file is synchronized.
+
+!ENTRY com.tibco.xpd.fragments 4 0 2016-05-04 12:20:01.463
+!MESSAGE com.tibco.xpd.fragments.internal.FragmentsManager$5.run(FragmentsManager.java:787) FragmentsManager.initialize(): No root categories found!!!
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.603
+!MESSAGE Constraint "com.tibco.amf.design.sr.core.internal.validation.constraints.SharedResourceNotInWorkspace" could not find target EMF type "Property."
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.635
+!MESSAGE Constraint "com.tibco.bw.sharedresource.http.design.com.tibco.amf.design.sr.transport.http.ssl.namedResourceReferenceValueNotEmpty" could not find target EMF type "NamedResourceReference."
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.654
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.trinity.ssl.editor.invalid.remote.host.constraint" could not find target EMF type "SSLServerConfiguration."
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.655
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.bw.sharedresource.trinity.ssl.client.editor.trust.namedResourceReferenceValueNotEmpty" could not find target EMF type "NamedResourceReference."
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.655
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.bw.sharedresource.trinity.ssl.client.editor.subject.namedResourceReferenceValueNotEmpty" could not find target EMF type "NamedResourceReference."
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.659
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.bw.sharedresource.trinity.ssl.server.editor.trust.namedResourceReferenceValueNotEmpty" could not find target EMF type "NamedResourceReference."
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 12:20:01.660
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.bw.sharedresource.trinity.ssl.server.editor.subject.namedResourceReferenceValueNotEmpty" could not find target EMF type "NamedResourceReference."
+
+!ENTRY org.eclipse.pde.core 4 0 2016-05-04 12:20:04.823
+!MESSAGE The current target platform contains errors, open Window > Preferences > Plug-in Development > Target Platform for details.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Problems occurred getting the plug-ins in this container
+	at org.eclipse.pde.internal.core.PluginModelManager.getExternalBundles(PluginModelManager.java:604)
+	at org.eclipse.pde.internal.core.PluginModelManager.initializeTable(PluginModelManager.java:525)
+	at org.eclipse.pde.internal.core.PluginModelManager.targetReloaded(PluginModelManager.java:473)
+	at org.eclipse.pde.core.target.LoadTargetDefinitionJob.resetPlatform(LoadTargetDefinitionJob.java:229)
+	at org.eclipse.pde.core.target.LoadTargetDefinitionJob.runInWorkspace(LoadTargetDefinitionJob.java:150)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Contains: Directory does not exist: C:\TIBCO_HOME_BWCE_V311\bwce\2.0\system\hotfix\lib\common
+!SUBENTRY 1 org.eclipse.pde.core 4 0 2016-05-04 12:20:04.838
+!MESSAGE Problems occurred getting the plug-ins in this container
+!SUBENTRY 2 org.eclipse.pde.core 4 0 2016-05-04 12:20:04.838
+!MESSAGE Directory does not exist: C:\TIBCO_HOME_BWCE_V311\bwce\2.0\system\hotfix\lib\common
+
+!ENTRY org.eclipse.bpel.validator 1 0 2016-05-04 12:20:26.962
+!MESSAGE Validator Startup 91ms
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:35.958
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:35.958
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:36.177
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:36.177
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:36.177
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:36.177
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:36.193
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-05-04 12:20:36.193
+!MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.ui 4 0 2016-05-04 12:20:41.844
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.ClassCastException: com.tibco.bw.core.design.process.editor.diagram.edit.parts.VisualConnectionEditPart cannot be cast to com.tibco.bw.core.design.process.editor.diagram.edit.parts.LinkEditPart)
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:139)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.msgFilterProc(Display.java:3479)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:256)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3755)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: java.lang.ClassCastException: com.tibco.bw.core.design.process.editor.diagram.edit.parts.VisualConnectionEditPart cannot be cast to com.tibco.bw.core.design.process.editor.diagram.edit.parts.LinkEditPart
+	at com.tibco.bw.core.design.figure.link.BWConnectionRefreshManager.refreshConnections(BWConnectionRefreshManager.java:98)
+	at org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart.forceRefreshConnections(ShapeCompartmentEditPart.java:615)
+	at org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart$2.run(ShapeCompartmentEditPart.java:598)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	... 27 more
+
+!ENTRY org.eclipse.ui 4 0 2016-05-04 12:20:42.063
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.ClassCastException: com.tibco.bw.core.design.process.editor.diagram.edit.parts.VisualConnectionEditPart cannot be cast to com.tibco.bw.core.design.process.editor.diagram.edit.parts.LinkEditPart)
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:139)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: java.lang.ClassCastException: com.tibco.bw.core.design.process.editor.diagram.edit.parts.VisualConnectionEditPart cannot be cast to com.tibco.bw.core.design.process.editor.diagram.edit.parts.LinkEditPart
+	at com.tibco.bw.core.design.figure.link.BWConnectionRefreshManager.refreshConnections(BWConnectionRefreshManager.java:98)
+	at org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart.forceRefreshConnections(ShapeCompartmentEditPart.java:615)
+	at org.eclipse.gmf.runtime.diagram.ui.editparts.ShapeCompartmentEditPart$2.run(ShapeCompartmentEditPart.java:598)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	... 23 more
+
+!ENTRY com.tibco.bw.studio.maven.plugin 4 0 2016-05-04 12:21:05.709
+!MESSAGE Failed to generate the POM file 
+!STACK 0
+java.lang.NullPointerException
+	at com.tibco.bw.studio.maven.modules.BWProjectBuilder.buildParent(BWProjectBuilder.java:98)
+	at com.tibco.bw.studio.maven.modules.BWProjectBuilder.build(BWProjectBuilder.java:41)
+	at com.tibco.bw.studio.maven.action.MavenPOMProcessor.run(MavenPOMProcessor.java:80)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:253)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY com.tibco.bw.studio.maven.plugin 4 0 2016-05-04 12:21:15.671
+!MESSAGE Failed to generate the POM file 
+!STACK 0
+java.lang.NullPointerException
+	at com.tibco.bw.studio.maven.modules.BWProjectBuilder.buildParent(BWProjectBuilder.java:98)
+	at com.tibco.bw.studio.maven.modules.BWProjectBuilder.build(BWProjectBuilder.java:41)
+	at com.tibco.bw.studio.maven.action.MavenPOMProcessor.run(MavenPOMProcessor.java:80)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:253)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.ui 2 2 2016-05-04 13:18:06.898
+!MESSAGE Invalid preference category path: tibco.preference.category.soa_platform (bundle: com.tibco.amf.tools.composite.editor, page: com.tibco.amf.sca.model.composite.diagram.general)
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 4 2 2016-05-04 13:18:17.318
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.e4.ui.workbench.swt".
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:62)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.disposed(InjectorImpl.java:390)
+	at org.eclipse.e4.core.internal.di.Requestor.disposed(Requestor.java:143)
+	at org.eclipse.e4.core.internal.contexts.ContextObjectSupplier$ContextInjectionListener.update(ContextObjectSupplier.java:76)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.update(TrackableComputationExt.java:107)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.handleInvalid(TrackableComputationExt.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.dispose(EclipseContext.java:175)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.clearContext(PartRenderingEngine.java:974)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:954)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$3(PartRenderingEngine.java:862)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$8.run(PartRenderingEngine.java:857)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:841)
+	at org.eclipse.ui.internal.WorkbenchWindow.hardClose(WorkbenchWindow.java:1937)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1560)
+	at org.eclipse.ui.internal.WorkbenchWindow.access$15(WorkbenchWindow.java:1527)
+	at org.eclipse.ui.internal.WorkbenchWindow$10.run(WorkbenchWindow.java:1592)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1589)
+	at org.eclipse.ui.internal.Workbench$14.run(Workbench.java:1155)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1137)
+	at org.eclipse.ui.internal.Workbench.access$21(Workbench.java:1079)
+	at org.eclipse.ui.internal.Workbench$19.run(Workbench.java:1410)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1407)
+	at org.eclipse.ui.internal.Workbench.restart(Workbench.java:2677)
+	at com.tibco.bw.branding.pcf.design.ContainerPreference.performOk(ContainerPreference.java:59)
+	at org.eclipse.jface.preference.PreferencePage.performApply(PreferencePage.java:438)
+	at com.tibco.bw.branding.pcf.design.ContainerPreference.performApply(ContainerPreference.java:42)
+	at org.eclipse.jface.preference.PreferencePage$2.widgetSelected(PreferencePage.java:284)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.dialogs.WorkbenchPreferenceDialog.open(WorkbenchPreferenceDialog.java:221)
+	at org.eclipse.ui.internal.OpenPreferencesAction.run(OpenPreferencesAction.java:66)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:476)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:348)
+	at org.eclipse.swt.widgets.Shell.getSize(Shell.java:1092)
+	at org.eclipse.ui.internal.quickaccess.SearchField.storeDialog(SearchField.java:580)
+	at org.eclipse.ui.internal.quickaccess.SearchField.dispose(SearchField.java:557)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	... 71 more
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2016-05-04 13:18:17.320
+!MESSAGE Exception occurred while unrendering: org.eclipse.e4.ui.model.application.ui.basic.impl.TrimmedWindowImpl@4ede035e (elementId: IDEWindow, tags: [topLevel, shellMaximized], contributorURI: platform:/plugin/org.eclipse.ui.workbench) (widget: null, renderer: null, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (label: %trimmedwindow.label.eclipseSDK, iconURI: null, tooltip: null, context: null, variables: [], x: 78, y: 78, width: 1024, height: 768)
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:62)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.disposed(InjectorImpl.java:390)
+	at org.eclipse.e4.core.internal.di.Requestor.disposed(Requestor.java:143)
+	at org.eclipse.e4.core.internal.contexts.ContextObjectSupplier$ContextInjectionListener.update(ContextObjectSupplier.java:76)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.update(TrackableComputationExt.java:107)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.handleInvalid(TrackableComputationExt.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.dispose(EclipseContext.java:175)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.clearContext(PartRenderingEngine.java:974)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:954)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$3(PartRenderingEngine.java:862)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$8.run(PartRenderingEngine.java:857)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:841)
+	at org.eclipse.ui.internal.WorkbenchWindow.hardClose(WorkbenchWindow.java:1937)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1560)
+	at org.eclipse.ui.internal.WorkbenchWindow.access$15(WorkbenchWindow.java:1527)
+	at org.eclipse.ui.internal.WorkbenchWindow$10.run(WorkbenchWindow.java:1592)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1589)
+	at org.eclipse.ui.internal.Workbench$14.run(Workbench.java:1155)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1137)
+	at org.eclipse.ui.internal.Workbench.access$21(Workbench.java:1079)
+	at org.eclipse.ui.internal.Workbench$19.run(Workbench.java:1410)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1407)
+	at org.eclipse.ui.internal.Workbench.restart(Workbench.java:2677)
+	at com.tibco.bw.branding.pcf.design.ContainerPreference.performOk(ContainerPreference.java:59)
+	at org.eclipse.jface.preference.PreferencePage.performApply(PreferencePage.java:438)
+	at com.tibco.bw.branding.pcf.design.ContainerPreference.performApply(ContainerPreference.java:42)
+	at org.eclipse.jface.preference.PreferencePage$2.widgetSelected(PreferencePage.java:284)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.dialogs.WorkbenchPreferenceDialog.open(WorkbenchPreferenceDialog.java:221)
+	at org.eclipse.ui.internal.OpenPreferencesAction.run(OpenPreferencesAction.java:66)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:476)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:348)
+	at org.eclipse.swt.widgets.Shell.getSize(Shell.java:1092)
+	at org.eclipse.ui.internal.quickaccess.SearchField.storeDialog(SearchField.java:580)
+	at org.eclipse.ui.internal.quickaccess.SearchField.dispose(SearchField.java:557)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	... 71 more
+!SESSION 2016-05-04 13:18:24.389 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation
+
+!ENTRY com.tibco.bw.sharedresource.jdbc.driver.template 4 0 2016-05-04 13:18:25.827
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.tibco.bw.sharedresource.jdbc.driver.template. The component header value is OSGI-INF/*.xml
+
+!ENTRY com.tibco.bw.sharedresource.jdbc.driver.template 4 0 2016-05-04 13:18:25.827
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.tibco.bw.sharedresource.jdbc.driver.template. The component header value is OSGI-INF/*.xml
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.188
+!MESSAGE Both 'com.tibco.amf.sharedresource.model.transport.eclipse' and 'com.tibco.amf.sharedresource.model.transport.eclipse' register a package for 'http://xsd.tns.tibco.com/amf/models/sharedresource/httpconnector'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.191
+!MESSAGE Both 'com.tibco.bw.core.model.eclipse' and 'com.tibco.bw.core.model.eclipse' register a package for 'http://ns.tibco.com/bw/core/internalactivity'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.192
+!MESSAGE Both 'com.tibco.bw.sharedresource.http.model' and 'com.tibco.bw.sharedresource.http.model' register a package for 'http://xsd.tns.tibco.com/bw/models/sharedresource/httpclient'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.193
+!MESSAGE Both 'com.tibco.amf.sharedresource.model.data.eclipse' and 'com.tibco.bw.sharedresource.jdbc.model' register a package for 'http://xsd.tns.tibco.com/amf/models/sharedresource/jdbc'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.194
+!MESSAGE Both 'com.tibco.amf.sca.model.eclipse' and 'com.tibco.bw.sharedresource.ws.policy.model' register a package for 'http://schemas.xmlsoap.org/ws/2004/09/policy'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.194
+!MESSAGE Both 'com.tibco.amf.wsdl.extensions.eclipse' and 'com.tibco.bw.wsdl.extensions' register a package for 'http://xsd.tns.tibco.com/wsdl/models/extensions/soap/tibcojms'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.194
+!MESSAGE Both 'com.tibco.amf.wsdl.extensions.eclipse' and 'com.tibco.bw.wsdl.extensions' register a package for 'http://xsd.tns.tibco.com/wsdl/models/soap12'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.200
+!MESSAGE Both 'com.tibco.bw.sharedresource.identity.model' and 'com.tibco.bw.sharedresource.ws.policy.model' register an extension parser for 'policy'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.200
+!MESSAGE Both 'com.tibco.bw.sharedresource.trinity.securityprovider.model' and 'com.tibco.trinity.securityprovider.model.eclipse' register an extension parser for 'auth'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.200
+!MESSAGE Both 'com.tibco.bw.sharedresource.trinity.securityprovider.model' and 'com.tibco.trinity.securityprovider.model.eclipse' register an extension parser for 'identity'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-04 13:18:29.200
+!MESSAGE Both 'com.tibco.bw.sharedresource.trinity.securityprovider.model' and 'com.tibco.trinity.securityprovider.model.eclipse' register an extension parser for 'userid'
+
+!ENTRY org.eclipse.ui 2 0 2016-05-04 13:18:29.831
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 13:18:29.831
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.migration2x.ui', id='com.tibco.amf.tools.migration2x.ui.migrateTo3xCommand', categoryId='com.tibco.amf.tools.composite.resources.ui.TasksCategory'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 13:18:29.831
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.packager.ui', id='com.tibco.amf.tools.packager.ui.createDaa.command', categoryId='tibco.category.soa_platform'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 13:18:29.831
+!MESSAGE Commands should really have a category: plug-in='com.tibco.bw.binding.soap.axis2.design', id='com.tibco.bw.binding.soap.axis2.design.generateWSDL', categoryId='tibco.category.soa_platform'
+
+!ENTRY org.eclipse.ui 2 0 2016-05-04 13:18:30.378
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 13:18:30.378
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.migration2x.ui', id='com.tibco.amf.tools.migration2x.ui.migrateTo3xCommand', categoryId='com.tibco.amf.tools.composite.resources.ui.TasksCategory'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 13:18:30.378
+!MESSAGE Commands should really have a category: plug-in='com.tibco.amf.tools.packager.ui', id='com.tibco.amf.tools.packager.ui.createDaa.command', categoryId='tibco.category.soa_platform'
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-05-04 13:18:30.378
+!MESSAGE Commands should really have a category: plug-in='com.tibco.bw.binding.soap.axis2.design', id='com.tibco.bw.binding.soap.axis2.design.generateWSDL', categoryId='tibco.category.soa_platform'
+
+!ENTRY org.eclipse.jface 2 0 2016-05-04 13:18:40.364
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:759)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:526)
+	at org.eclipse.ui.navigator.CommonViewer.refresh(CommonViewer.java:353)
+	at org.eclipse.ui.navigator.CommonViewer.refresh(CommonViewer.java:510)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1456)
+	at org.eclipse.jface.viewers.StructuredViewer.setSorter(StructuredViewer.java:1768)
+	at org.eclipse.ui.navigator.CommonViewer.setSorter(CommonViewer.java:268)
+	at com.tibco.bw.core.design.process.editor.ext.diagram.part.BWProjectExplorerViewerManager.activate(BWProjectExplorerViewerManager.java:56)
+	at com.tibco.bw.core.design.project.core.util.BWSelectionProviderManager.register(BWSelectionProviderManager.java:30)
+	at com.tibco.bw.core.design.process.editor.ext.diagram.part.BWProjectExplorerViewerFilter.select(BWProjectExplorerViewerFilter.java:35)
+	at org.eclipse.jface.viewers.ViewerFilter.filter(ViewerFilter.java:51)
+	at org.eclipse.jface.viewers.StructuredViewer.getFilteredChildren(StructuredViewer.java:909)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.getSortedChildren(AbstractTreeViewer.java:617)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$1.run(AbstractTreeViewer.java:815)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:791)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:611)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:762)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1543)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:790)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$5.run(AbstractTreeViewer.java:1527)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1436)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1397)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1519)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:292)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1675)
+	at org.eclipse.ui.navigator.CommonNavigator.createPartControl(CommonNavigator.java:212)
+	at org.eclipse.ui.navigator.resources.ProjectExplorer.createPartControl(ProjectExplorer.java:93)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:141)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityView.createPartControl(CompatibilityView.java:155)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:327)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:869)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:120)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:337)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:258)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:127)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:983)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:662)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$6.run(PartRenderingEngine.java:547)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:531)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:69)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:983)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:662)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1250)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:100)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:678)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:68)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:185)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:674)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:68)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:185)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:674)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:68)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:674)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:100)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:77)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:678)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:68)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:185)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:674)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:68)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:664)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:674)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1078)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.osgi 2 0 2016-05-04 13:18:52.829
+!MESSAGE While loading class "com.tibco.bw.binding.rest.design.util.swagger.RestParserSwaggerV12", thread "Thread[main,6,main]" timed out waiting (5012ms) for thread "Thread[Worker-2,5,main]" to finish starting bundle "com.tibco.bw.binding.rest.design_6.3.200.002 [62]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "com.tibco.bw.binding.rest.design.util.swagger.RestParserSwaggerV12" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="com.tibco.bw.binding.rest.design"; type="osgi.bundle"; version:Version="6.3.200.002"; singleton:="true" [id=62] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:568)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.getExtensionRESTParsers(RESTExtensionRegistry.java:149)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.getInstance(RESTExtensionRegistry.java:46)
+	at com.tibco.bw.core.design.model.restext.RESTHelper.canParse(RESTHelper.java:34)
+	at com.tibco.bw.core.design.resource.wc.RESTWorkingCopyFactory.isFactoryFor(RESTWorkingCopyFactory.java:44)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ò00000(XpdProjectResourceFactoryImpl.java:430)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ó00000(XpdProjectResourceFactoryImpl.java:257)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.access$0(XpdProjectResourceFactoryImpl.java:237)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl$2.visit(XpdProjectResourceFactoryImpl.java:485)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:126)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:95)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:124)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:108)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.addAllWorkingCopies(XpdProjectResourceFactoryImpl.java:481)
+	at com.tibco.xpd.resources.internal.wc.WorkingCopyFactoriesManager.getXpdProjectResourceFactory(WorkingCopyFactoriesManager.java:130)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getXpdProjectResourceFactory(XpdResourcesPlugin.java:179)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getWorkingCopy(XpdResourcesPlugin.java:200)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener$_o.visit(ResourceFactoriesChangeListener.java:165)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:69)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:49)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener.resourceChanged(ResourceFactoriesChangeListener.java:238)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:378)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1498)
+	at org.eclipse.core.internal.resources.File.create(File.java:175)
+	at org.eclipse.core.internal.resources.File.create(File.java:188)
+	at com.tibco.bw.core.design.resource.util.BWProjectBuilder.writeFile(BWProjectBuilder.java:692)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.createNewLocalBWAppLaunchFile(BWProjectWizardHelper.java:519)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWApplicationLaunchFile(BWProjectWizardHelper.java:459)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWRadProject(BWProjectWizardHelper.java:147)
+	at com.tibco.bw.core.design.project.PluginActivator.initiateProject(PluginActivator.java:173)
+	at com.tibco.bw.core.design.project.PluginActivator$1.run(PluginActivator.java:160)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.osgi 2 0 2016-05-04 13:18:57.842
+!MESSAGE While loading class "com.tibco.bw.binding.rest.design.util.swagger.RestParserSwaggerV20", thread "Thread[main,6,main]" timed out waiting (5002ms) for thread "Thread[Worker-2,5,main]" to finish starting bundle "com.tibco.bw.binding.rest.design_6.3.200.002 [62]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "com.tibco.bw.binding.rest.design.util.swagger.RestParserSwaggerV20" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="com.tibco.bw.binding.rest.design"; type="osgi.bundle"; version:Version="6.3.200.002"; singleton:="true" [id=62] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:568)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.getExtensionRESTParsers(RESTExtensionRegistry.java:149)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.getInstance(RESTExtensionRegistry.java:46)
+	at com.tibco.bw.core.design.model.restext.RESTHelper.canParse(RESTHelper.java:34)
+	at com.tibco.bw.core.design.resource.wc.RESTWorkingCopyFactory.isFactoryFor(RESTWorkingCopyFactory.java:44)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ò00000(XpdProjectResourceFactoryImpl.java:430)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ó00000(XpdProjectResourceFactoryImpl.java:257)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.access$0(XpdProjectResourceFactoryImpl.java:237)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl$2.visit(XpdProjectResourceFactoryImpl.java:485)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:126)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:95)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:124)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:108)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.addAllWorkingCopies(XpdProjectResourceFactoryImpl.java:481)
+	at com.tibco.xpd.resources.internal.wc.WorkingCopyFactoriesManager.getXpdProjectResourceFactory(WorkingCopyFactoriesManager.java:130)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getXpdProjectResourceFactory(XpdResourcesPlugin.java:179)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getWorkingCopy(XpdResourcesPlugin.java:200)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener$_o.visit(ResourceFactoriesChangeListener.java:165)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:69)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:49)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener.resourceChanged(ResourceFactoriesChangeListener.java:238)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:378)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1498)
+	at org.eclipse.core.internal.resources.File.create(File.java:175)
+	at org.eclipse.core.internal.resources.File.create(File.java:188)
+	at com.tibco.bw.core.design.resource.util.BWProjectBuilder.writeFile(BWProjectBuilder.java:692)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.createNewLocalBWAppLaunchFile(BWProjectWizardHelper.java:519)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWApplicationLaunchFile(BWProjectWizardHelper.java:459)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWRadProject(BWProjectWizardHelper.java:147)
+	at com.tibco.bw.core.design.project.PluginActivator.initiateProject(PluginActivator.java:173)
+	at com.tibco.bw.core.design.project.PluginActivator$1.run(PluginActivator.java:160)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.osgi 2 0 2016-05-04 13:19:02.935
+!MESSAGE While loading class "com.tibco.bw.binding.rest.design.util.swagger.SwaggerReaderV12", thread "Thread[main,6,main]" timed out waiting (5001ms) for thread "Thread[Worker-2,5,main]" to finish starting bundle "com.tibco.bw.binding.rest.design_6.3.200.002 [62]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "com.tibco.bw.binding.rest.design.util.swagger.SwaggerReaderV12" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="com.tibco.bw.binding.rest.design"; type="osgi.bundle"; version:Version="6.3.200.002"; singleton:="true" [id=62] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.tibco.bw.binding.rest.design.util.swagger.RestParserSwaggerV12.support(RestParserSwaggerV12.java:69)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.queryParser(RESTExtensionRegistry.java:112)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.queryParser(RESTExtensionRegistry.java:88)
+	at com.tibco.bw.core.design.model.restext.RESTHelper.canParse(RESTHelper.java:34)
+	at com.tibco.bw.core.design.resource.wc.RESTWorkingCopyFactory.isFactoryFor(RESTWorkingCopyFactory.java:44)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ò00000(XpdProjectResourceFactoryImpl.java:430)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ó00000(XpdProjectResourceFactoryImpl.java:257)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.access$0(XpdProjectResourceFactoryImpl.java:237)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl$2.visit(XpdProjectResourceFactoryImpl.java:485)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:126)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:95)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:124)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:108)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.addAllWorkingCopies(XpdProjectResourceFactoryImpl.java:481)
+	at com.tibco.xpd.resources.internal.wc.WorkingCopyFactoriesManager.getXpdProjectResourceFactory(WorkingCopyFactoriesManager.java:130)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getXpdProjectResourceFactory(XpdResourcesPlugin.java:179)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getWorkingCopy(XpdResourcesPlugin.java:200)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener$_o.visit(ResourceFactoriesChangeListener.java:165)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:69)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:49)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener.resourceChanged(ResourceFactoriesChangeListener.java:238)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:378)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1498)
+	at org.eclipse.core.internal.resources.File.create(File.java:175)
+	at org.eclipse.core.internal.resources.File.create(File.java:188)
+	at com.tibco.bw.core.design.resource.util.BWProjectBuilder.writeFile(BWProjectBuilder.java:692)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.createNewLocalBWAppLaunchFile(BWProjectWizardHelper.java:519)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWApplicationLaunchFile(BWProjectWizardHelper.java:459)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWRadProject(BWProjectWizardHelper.java:147)
+	at com.tibco.bw.core.design.project.PluginActivator.initiateProject(PluginActivator.java:173)
+	at com.tibco.bw.core.design.project.PluginActivator$1.run(PluginActivator.java:160)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.osgi 2 0 2016-05-04 13:19:07.965
+!MESSAGE While loading class "com.tibco.bw.binding.rest.design.util.swagger.SwaggerReaderV20", thread "Thread[main,6,main]" timed out waiting (5001ms) for thread "Thread[Worker-2,5,main]" to finish starting bundle "com.tibco.bw.binding.rest.design_6.3.200.002 [62]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "com.tibco.bw.binding.rest.design.util.swagger.SwaggerReaderV20" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="com.tibco.bw.binding.rest.design"; type="osgi.bundle"; version:Version="6.3.200.002"; singleton:="true" [id=62] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.tibco.bw.binding.rest.design.util.swagger.RestParserSwaggerV20.support(RestParserSwaggerV20.java:85)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.queryParser(RESTExtensionRegistry.java:112)
+	at com.tibco.bw.core.design.model.restext.RESTExtensionRegistry.queryParser(RESTExtensionRegistry.java:88)
+	at com.tibco.bw.core.design.model.restext.RESTHelper.canParse(RESTHelper.java:34)
+	at com.tibco.bw.core.design.resource.wc.RESTWorkingCopyFactory.isFactoryFor(RESTWorkingCopyFactory.java:44)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ò00000(XpdProjectResourceFactoryImpl.java:430)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.Ó00000(XpdProjectResourceFactoryImpl.java:257)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.access$0(XpdProjectResourceFactoryImpl.java:237)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl$2.visit(XpdProjectResourceFactoryImpl.java:485)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:126)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:95)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:124)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:108)
+	at com.tibco.xpd.resources.internal.wc.XpdProjectResourceFactoryImpl.addAllWorkingCopies(XpdProjectResourceFactoryImpl.java:481)
+	at com.tibco.xpd.resources.internal.wc.WorkingCopyFactoriesManager.getXpdProjectResourceFactory(WorkingCopyFactoriesManager.java:130)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getXpdProjectResourceFactory(XpdResourcesPlugin.java:179)
+	at com.tibco.xpd.resources.XpdResourcesPlugin.getWorkingCopy(XpdResourcesPlugin.java:200)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener$_o.visit(ResourceFactoriesChangeListener.java:165)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:69)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:49)
+	at com.tibco.xpd.resources.internal.wc.ResourceFactoriesChangeListener.resourceChanged(ResourceFactoriesChangeListener.java:238)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:378)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1498)
+	at org.eclipse.core.internal.resources.File.create(File.java:175)
+	at org.eclipse.core.internal.resources.File.create(File.java:188)
+	at com.tibco.bw.core.design.resource.util.BWProjectBuilder.writeFile(BWProjectBuilder.java:692)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.createNewLocalBWAppLaunchFile(BWProjectWizardHelper.java:519)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWApplicationLaunchFile(BWProjectWizardHelper.java:459)
+	at com.tibco.bw.core.design.project.wizard.BWProjectWizardHelper.synchronizeBWRadProject(BWProjectWizardHelper.java:147)
+	at com.tibco.bw.core.design.project.PluginActivator.initiateProject(PluginActivator.java:173)
+	at com.tibco.bw.core.design.project.PluginActivator$1.run(PluginActivator.java:160)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY com.tibco.xpd.fragments 4 0 2016-05-04 13:19:08.737
+!MESSAGE com.tibco.xpd.fragments.internal.FragmentsManager$5.run(FragmentsManager.java:787) FragmentsManager.initialize(): No root categories found!!!
+
+!ENTRY org.eclipse.pde.core 4 0 2016-05-04 14:18:09.921
+!MESSAGE The current target platform contains errors, open Window > Preferences > Plug-in Development > Target Platform for details.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Problems occurred getting the plug-ins in this container
+	at org.eclipse.pde.internal.core.PluginModelManager.getExternalBundles(PluginModelManager.java:604)
+	at org.eclipse.pde.internal.core.PluginModelManager.initializeTable(PluginModelManager.java:525)
+	at org.eclipse.pde.internal.core.PluginModelManager.findModel(PluginModelManager.java:874)
+	at org.eclipse.pde.core.plugin.PluginRegistry.findModel(PluginRegistry.java:110)
+	at com.tibco.zion.dc.util.PackageUnitProjectTester.test(PackageUnitProjectTester.java:27)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:99)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.e4.ui.internal.workbench.ContributionsAnalyzer.isVisible(ContributionsAnalyzer.java:256)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.computeVisibility(ContributionRecord.java:166)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:96)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:188)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:260)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:127)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:92)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:493)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:487)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:519)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4963)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4639)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:256)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3755)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Contains: Directory does not exist: C:\TIBCO_HOME_BWCE_V311\bwce\2.0\system\hotfix\lib\common
+!SUBENTRY 1 org.eclipse.pde.core 4 0 2016-05-04 14:18:09.928
+!MESSAGE Problems occurred getting the plug-ins in this container
+!SUBENTRY 2 org.eclipse.pde.core 4 0 2016-05-04 14:18:09.928
+!MESSAGE Directory does not exist: C:\TIBCO_HOME_BWCE_V311\bwce\2.0\system\hotfix\lib\common
+
+!ENTRY org.eclipse.emf.validation 2 70 2016-05-04 14:20:16.030
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.trinity.ssl.editor.invalid.remote.host.constraint" could not find target EMF type "SSLServerConfiguration."
+
+!ENTRY org.eclipse.debug.ui 4 0 2016-05-04 14:31:52.738
+!MESSAGE Launch shortcut 'com.tibco.bw.core.design.project.runBWApplicationLaunchShortcut' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property com.tibco.bw.core.design.project.launch.matchResource to type class org.eclipse.ui.part.FileEditorInput
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:281)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction.isApplicable(LaunchShortcutsAction.java:261)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction.fillMenu(LaunchShortcutsAction.java:170)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction.access$0(LaunchShortcutsAction.java:161)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction$2.menuShown(LaunchShortcutsAction.java:278)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:782)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1276)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1256)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1245)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1218)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4963)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4639)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:256)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3755)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2016-05-04 14:31:52.739
+!MESSAGE No property tester contributes a property com.tibco.bw.core.design.project.launch.matchResource to type class org.eclipse.ui.part.FileEditorInput
+
+!ENTRY org.eclipse.debug.ui 4 0 2016-05-04 14:31:52.740
+!MESSAGE Launch shortcut 'com.tibco.bw.core.design.project.debugBWApplicationLaunchShortcut' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property com.tibco.bw.core.design.project.launch.matchResource to type class org.eclipse.ui.part.FileEditorInput
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:281)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction.isApplicable(LaunchShortcutsAction.java:261)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction.fillMenu(LaunchShortcutsAction.java:170)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction.access$0(LaunchShortcutsAction.java:161)
+	at org.eclipse.debug.ui.actions.LaunchShortcutsAction$2.menuShown(LaunchShortcutsAction.java:278)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:782)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1276)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1256)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1245)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1218)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4963)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4639)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:256)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3755)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2016-05-04 14:31:52.741
+!MESSAGE No property tester contributes a property com.tibco.bw.core.design.project.launch.matchResource to type class org.eclipse.ui.part.FileEditorInput

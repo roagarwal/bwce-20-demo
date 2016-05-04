@@ -1,0 +1,13 @@
+#PCF Properties
+#Wed May 04 12:46:27 IST 2016
+bwpcf.instances=1
+bwpcf.trustSelfSignedCerts=true
+bwpcf.org=tibco
+bwpcf.env.0=PCF
+bwpcf.url=rest-app-dev.tibcopcf.co.uk
+bwpcf.space=development
+bwpcf.server=PCF_UK_credential
+bwpcf.memory=1024
+bwpcf.appName=rest-app-dev
+bwpcf.target=https\://api.tibcopcf.co.uk
+bwpcf.buildpack=bw-buildpack
